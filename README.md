@@ -1,2 +1,2 @@
 # HelloWorld
-for exercise 20170901
+github使用练习
